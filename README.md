@@ -2,8 +2,8 @@
 
 Hi:wave: Perkenalkan Nama Saya [Reza Yusuf Maulana](https://www.linkedin.com/in/rezayusufmaulana) :slightly_smiling_face:, biasa dipanggil Reza, Kalau mau cek linkedin bisa ke [Linkedin.](https://www.linkedin.com/in/rezayusufmaulana/) ini yaa
 
-<p>Kali ini saya akan membagikan tutorial Test Automation menggunakan Selenium menggunakan bahasa pemrograman Java + BDD TOOLS Cucumber.</p>
-<p>Semoga bermanfaat.</p>
+<p>Kali ini saya akan membagikan pengalaman Test Automation menggunakan Selenium menggunakan bahasa pemrograman Java + BDD TOOLS Cucumber.</p>
+<p>Selamat dicoba.</p>
 
 **Tools yang dibutuhkan** :
 
